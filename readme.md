@@ -34,3 +34,8 @@
 ## 벌금 금액
 
 * 1 만원
+
+## 위키
+
+자세한 사항은 위키 참조
+[위키가기](https://github.com/ahn-kj/caption-entoko/wiki)
