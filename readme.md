@@ -35,6 +35,27 @@
 
 * 1 만원
 
+## 프로젝트
+
+### 번역 포럼 이용
+
+이미 구글에서 검색되는 한글 자막보다 현재 한글자막이 없는 것 위주로 하는것이 좋을 것으로 생각됨.  
+번역포럼 사이트에는 다양한 요청들이 있음.
+
+* [번역포럼 자막요청 게시판 링크](http://www.bunyuc.com/bbs/board.php?bo_table=request&sca=%EC%9E%90%EB%A7%89%EC%9A%94%EC%B2%AD)
+
+
+### 1회차 번역(갈라반트)
+
+#### 자막요청 참조
+[http://bunyuc.com/bbs/board.php?bo_table=request&wr_id=1044&sca=%EC%9E%90%EB%A7%89%EC%9A%94%EC%B2%AD](http://bunyuc.com/bbs/board.php?bo_table=request&wr_id=1044&sca=%EC%9E%90%EB%A7%89%EC%9A%94%EC%B2%AD)
+
+#### 영상 magnet
+
+[magnet:?xt=urn:btih:91AF2D6D22D83A63B7A85F2CF12B5150A744CC83](magnet:?xt=urn:btih:91AF2D6D22D83A63B7A85F2CF12B5150A744CC83)
+
+### 영어자막은 소스 디렉토리 참조 
+
 ## 위키
 
 자세한 사항은 위키 참조
