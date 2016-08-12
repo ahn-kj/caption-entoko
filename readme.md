@@ -45,7 +45,11 @@
 * [번역포럼 자막요청 게시판 링크](http://www.bunyuc.com/bbs/board.php?bo_table=request&sca=%EC%9E%90%EB%A7%89%EC%9A%94%EC%B2%AD)
 
 
-### 1회차 번역(갈라반트)
+### 1회차 번역(Android Devlelopers/What's New in Andoroid N)
+
+[https://www.youtube.com/watch?v=CsulIu3UaUM](https://www.youtube.com/watch?v=CsulIu3UaUM)
+
+### 추후 번역 예정
 
 #### 자막요청 참조
 [http://bunyuc.com/bbs/board.php?bo_table=request&wr_id=1044&sca=%EC%9E%90%EB%A7%89%EC%9A%94%EC%B2%AD](http://bunyuc.com/bbs/board.php?bo_table=request&wr_id=1044&sca=%EC%9E%90%EB%A7%89%EC%9A%94%EC%B2%AD)
